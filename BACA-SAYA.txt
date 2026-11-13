@@ -1,0 +1,13 @@
+Catatan Bulanan (PWA)
+
+Agar bisa diinstal, file harus dibuka lewat alamat https (bukan dibuka langsung dari folder).
+Cara termudah:
+1. Ekstrak zip ini.
+2. Buka app.netlify.com/drop lalu seret folder 'catatan-bulanan' ke sana (gratis).
+3. Buka alamat yang diberikan di HP.
+
+Instal:
+- iPhone (Safari): Bagikan > Tambahkan ke Layar Utama.
+- Android (Chrome): menu titik tiga > Instal aplikasi.
+
+Data tersimpan di HP Anda (per alamat situs) dan tetap bisa dipakai tanpa internet.
